@@ -1,8 +1,6 @@
 program prueba;
+var i: integer;
 begin
-	write('Valor1 es: ');
-	writeln(3);
-	write('Valor2 es: ');
-	writeln(5.5);
-	writeln('La suma de ', 3, ' y ', 5.5, ' es ', 3+5.5);
+for i:= 3 to 3 do
+	writeln(i);
 end.

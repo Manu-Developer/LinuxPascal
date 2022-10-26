@@ -2,8 +2,7 @@ program ej7;
 var p1x,p1y,p2x,p2y,resultadoFinal: real;
 
 function distancia(x1,y1,x2,y2: real): real;
-	var lado1,lado2,hipotenusa: real;
-	
+var lado1,lado2,hipotenusa: real;
 begin
 	lado1:=x2-x1;
 	lado2:=y2-y1;

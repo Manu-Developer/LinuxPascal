@@ -7,5 +7,5 @@ begin
 	begin
 		aux:=aux*n;
 		writeln(n,aux)
-	end
+	end;
 end.
